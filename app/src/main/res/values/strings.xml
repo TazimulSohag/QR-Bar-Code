@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QR &amp; Barcode Scanner</string>
+    <string name="scan_something_txt">Scan Something</string>
+    <string name="scan_txt">Scan</string>
+    <string name="todo_txt">TODO</string>
+    <string name="powered_by_banglabs_txt">Powered by BangLabs.co</string>
+
+    <string name="real_Add_unit">ca-app-pub-1716189511430378~4446436262</string>
+    <string name="demo_add_unit">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="real_add">ca-app-pub-1716189511430378/9507191253</string>
+    <string name="real_add2">ca-app-pub-1716189511430378/4738080301</string>
+    <string name="interstitial_add1">ca-app-pub-1716189511430378/4738080301</string>
+    <string name="interstitial_add2">ca-app-pub-1716189511430378/5125572042</string>
+
+    <string name="demo_add">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="generate_qr">Generate QR</string>
+    <string name="enter_your_text">Enter your text</string>
+    <string name="qr">qr</string>
+
+
+</resources>
